@@ -1,0 +1,17 @@
+Ireland Critical Skills Employment Permit — Quick Guide (Excerpt)
+
+The Critical Skills Employment Permit (CSEP) is designed to attract highly skilled non-EEA workers to Ireland in occupations that are experiencing skills shortages. As of 1 March 2026, the on-list salary threshold is €40,904 per year. The off-list threshold is €68,911 per year. The General Employment Permit (GEP) threshold is €36,605 per year.
+
+Eligible occupations are listed on the Critical Skills Occupations List (CSOL). As of the May 2026 review, all ICT roles remain on the list, including data scientists, machine learning engineers, software developers, and cloud engineers. The SOC codes for these occupations include 2136 (programmers and software development professionals), 2139 (all other ICT professionals not elsewhere classified), 2423 (business analysts in big data analytics), and 2425 (statisticians and actuaries in big data analytics).
+
+To qualify for a CSEP, you must have a job offer of at least two years from an Irish employer, the role must be on the CSOL, and the salary must meet the threshold. There is no Labour Market Needs Test for on-list occupations. After holding a CSEP for two years, the permit holder can apply for a Stamp 4 immigration permission. After five years of GEP, holders can also apply for long-term residence.
+
+Stamp 1G is granted to non-EU graduates of Irish universities at Level 9 or higher (master's degree or above). Stamp 1G allows the holder to work in any occupation without an employment permit for an initial 12-month period, renewable for a further 12 months. This gives graduates 24 months of unrestricted work before requiring a sponsored permit.
+
+The Third Level Graduate Programme is the name for the Stamp 1G scheme. To apply, you need proof of graduation from an Irish institution at Level 9 or higher, evidence of €22,000 in available funds (or a sponsor), and private medical insurance.
+
+The Employment Permits Act 2024 was signed into law in September 2024, replacing the Employment Permits Act 2006. The 2024 Act includes the new Employment Permits Online System (EPOS) and a revised Critical Skills Occupations List process. The Act commenced in stages, with the main provisions in September 2024 and additional provisions in February 2025.
+
+For AI and machine learning roles, candidates are expected to demonstrate proficiency in Python, deep learning frameworks such as PyTorch or TensorFlow, cloud platforms especially AWS, and ideally large language model techniques including RAG and prompt engineering.
+
+Sponsors who commonly hire for these roles include Stripe, Workday, Intercom, Toast, Qualtrics, Tines, Indeed, HubSpot in Dublin, and Medtronic, Boston Scientific, Fidelity, SAP, Genesys, and Cisco in Galway.

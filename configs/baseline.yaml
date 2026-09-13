@@ -1,0 +1,31 @@
+# Mini-RAG Reader — Week 1 baseline config
+
+# Embeddings
+embedding_model: "sentence-transformers/all-MiniLM-L6-v2"
+embedding_dim: 384
+# embedding_device auto-detected (cuda/mps/cpu) — leave unset to use GPU if present
+
+# Chunking
+chunk_size: 500        # characters per chunk
+chunk_overlap: 50      # character overlap between consecutive chunks
+
+# Retrieval
+top_k: 4               # how many chunks to retrieve per query
+similarity: "l2"        # FAISS index type (l2 or ip)
+
+# Generation
+llm_model: "Qwen/Qwen2.5-1.5B-Instruct"
+llm_max_new_tokens: 512
+llm_temperature: 0.1
+llm_top_p: 0.95
+device_map: "auto"      # use GPU if available, else CPU
+# torch_dtype auto-detected (bfloat16 on CUDA, float32 on CPU/MPS) — leave unset
+
+# Serving
+host: "0.0.0.0"
+port: 8000
+log_level: "info"
+
+# Data
+data_dir: "data"
+sample_pdf: "data/sample.pdf"
